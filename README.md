@@ -8,3 +8,6 @@ wackySum.asm - A random mathematical operation demonstrating loops and stack usa
 loops_sum13.asm - Loops and arrays in Mips
 branchs_intmax.asm - Branches, returns largest integer
 branches_close10.asm - Checks a series of numbers to see which is closest to 10
+
+Also contains a Mips 16 bit ALU designed with JLS
+
